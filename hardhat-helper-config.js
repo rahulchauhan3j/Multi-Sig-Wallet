@@ -1,0 +1,9 @@
+const NUMBER_OF_CONFIRMATIONS = 2
+const FUNCTION_TO_CALL = "incrementCounter"
+const TRANSACTION_VALUE = 0
+
+module.exports = {
+  NUMBER_OF_CONFIRMATIONS,
+  FUNCTION_TO_CALL,
+  TRANSACTION_VALUE,
+}
